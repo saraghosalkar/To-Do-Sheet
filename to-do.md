@@ -1,6 +1,4 @@
-https://docs.google.com/spreadsheets/d/1F5R8VrCSdkQ1U5yVqbmzv_n9AjvBq4Chgy1xPc_Lw8o/edit?usp=sharing
-
-1) Click the link given above.
+1) Click the link given in the description.
 2) Click on 'File'.
 3) Select the 'Make a copy' option.
 4) Save it to your drive.
