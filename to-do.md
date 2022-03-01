@@ -9,7 +9,7 @@ https://docs.google.com/spreadsheets/d/1F5R8VrCSdkQ1U5yVqbmzv_n9AjvBq4Chgy1xPc_L
 7) Set its status as "Not done" or "Incomplete"
 8) When the task is over, edit its status as 'done'
 
-#COLOUR CODES : 
+## COLOUR CODES : 
 
 A) White : 
   It is an empty cell.
